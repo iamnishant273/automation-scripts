@@ -1,2 +1,2 @@
 # automation-scripts
-# This is a scripts for docker installation
+# This repo contain automation scripts
